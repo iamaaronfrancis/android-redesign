@@ -1,0 +1,57 @@
+.header {
+    background-color: #fff;
+    height: 80px;
+    position: relative;
+    z-index: 1000;
+  }
+  
+  .nav-section {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
+    word-spacing: 5px;
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+  }
+  
+  .nav-section:hover {
+    text-decoration: none;
+    color: #4b7d2f;
+  }
+  
+  .carousel{ 
+    padding-bottom:10px;
+    }
+  
+  .os {
+    text-align: center;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+  
+  .quotes > li {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
+    margin-bottom: 0px;
+  }
+  
+  .container > h1 {
+    text-transform: uppercase;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  }
+  
+  .copyright{
+    text-transform:uppercase;
+  }
+  
+  .space{
+    text-align:center;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+  
+  
+  
+  
